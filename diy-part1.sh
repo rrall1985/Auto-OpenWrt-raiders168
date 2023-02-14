@@ -28,3 +28,7 @@ echo 'src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git' >>fe
 
 ####### darkmatter主题 #######
 #echo 'src-git darkmatter git://github.com/apollo-ng/luci-theme-darkmatter.git' >>feeds.conf.default
+
+########### 安装mosdnsv5###########
+git clone https://github.com/QiuSimons/openwrt-mos package/mosdns
+git clone https://github.com/QiuSimons/openwrt-mos/tree/master/v2ray-geodata package/v2ray-geodata
