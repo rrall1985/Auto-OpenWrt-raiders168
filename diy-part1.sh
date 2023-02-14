@@ -32,4 +32,4 @@ echo 'src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git' >>fe
 ########### 安装mosdnsv5###########
 git clone https://github.com/QiuSimons/openwrt-mos package/m#osdns
 # git clone https://github.com/QiuSimons/openwrt-mos/tree/master/v2ray-geodata package/v2ray-geodata
-git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
+# git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
