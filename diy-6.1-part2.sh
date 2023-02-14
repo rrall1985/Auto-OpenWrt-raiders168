@@ -39,5 +39,5 @@ git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-a
 # git clone https://github.com/pymumu/smartdns.git package/smartdns
 
 ########### 安装mosdnsv5###########
-git clone https://github.com/QiuSimons/openwrt-mos package/mosdns
+# git clone https://github.com/QiuSimons/openwrt-mos package/mosdns
 # git clone https://github.com/QiuSimons/openwrt-mos/tree/master/v2ray-geodata package/v2ray-geodata
